@@ -1,0 +1,3 @@
+[submodule "twiot-gateway"]
+	path = twiot-gateway
+	url = https://github.com/vmasdani/twiot-gateway
