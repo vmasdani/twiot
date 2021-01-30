@@ -4,6 +4,18 @@ Compilation of hacky internet of things schematics & codes/scripts which aim to 
 ### Ecosystem
 The ecosystem mostly uses the programming language Rust and Elm, which are the most robust programming languages in the market. Machine-to-machine communication uses MQTT while storage uses SQLite. MQTT is chosen because it is one of the most lightweight protocols which is compatible with Arduino + ESP8266.
 
+### Submodules
+To init submodules, execute:
+```
+git submodule --init --recursive
+```
+
+### (Dev) updating submodules
+To update all submodules, execute:
+```
+git submodule foreach git pull origin main
+```
+
 Roadmap:
 - Gateway - Orange Pi Zero (WIP)
   - Generic devices & sensors database (WIP)
