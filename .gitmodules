@@ -1,3 +1,6 @@
 [submodule "twiot-gateway"]
 	path = twiot-gateway
 	url = https://github.com/vmasdani/twiot-gateway
+[submodule "twiot-smart-garden-valve"]
+	path = twiot-smart-garden-valve
+	url = https://github.com/vmasdani/twiot-smart-garden-valve
