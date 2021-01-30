@@ -7,7 +7,7 @@ The ecosystem mostly uses the programming language Rust and Elm, which are the m
 ### Submodules
 To init submodules, execute:
 ```
-git submodule --init --recursive
+git submodule update --init --recursive
 ```
 
 ### (Dev) updating submodules
