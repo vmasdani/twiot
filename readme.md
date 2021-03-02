@@ -17,19 +17,19 @@ git submodule foreach git pull origin main
 ```
 
 Roadmap:
-- [Gateway - Orange Pi Zero (67%)](https://github.com/vmasdani/twiot-gateway/tree/main)
+- [Gateway - Orange Pi Zero (100%)](https://github.com/vmasdani/twiot-gateway)
   - Generic devices & sensors database (100%)
-  - OLED QR view (WIP)
+  - OLED QR view (100%)
   - Management Console Frontend (100%)
-- Smart Garden
+- Smart Garden (66%)
   - Gateway backend (100%)
     - Manual watering schedule (100%)
     - Automatic watering (100%)
   - Actuators (100%)
-    - [Solenoid valve controller (100%)](https://github.com/vmasdani/twiot-gateway/tree/main)
+    - [Solenoid valve controller (100%)](https://github.com/vmasdani/twiot-smart-garden-valve)
   - Sensors (0%)
     - Soil Moisture Logger (0%)
-- Energy Monitor
+- Energy Monitor (0%)
   - Gateway backend (0%)
     - Rooms catalog (0%)
   - Sensors (0%)
