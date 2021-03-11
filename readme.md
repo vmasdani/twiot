@@ -1,4 +1,7 @@
 # TWIoT
+
+![topology](topology.png)
+
 Compilation of hacky internet of things schematics & codes/scripts which aim to help monitor and automate things around my house--in a third-world country--as cheap and robust as possible.
 
 ### Ecosystem
@@ -21,10 +24,10 @@ Roadmap:
   - Generic devices & sensors database (100%)
   - OLED QR view (100%)
   - Management Console Frontend (100%)
-- Smart Garden (66%)
-  - Gateway backend (100%)
+- Smart Garden (75%)
+  - Gateway backend (50%)
     - Manual watering schedule (100%)
-    - Automatic watering (100%)
+    - Automatic watering (0%)
   - Actuators (100%)
     - [Solenoid valve controller (100%)](https://github.com/vmasdani/twiot-smart-garden-valve)
   - Sensors (0%)
@@ -33,3 +36,6 @@ Roadmap:
   - Gateway backend (0%)
     - Rooms catalog (0%)
   - Sensors (0%)
+- CCTV (0%)
+  - CCTV devices catalog (0%)
+  - RTSP proxy (0%)
